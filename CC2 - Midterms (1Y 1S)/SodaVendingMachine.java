@@ -1,6 +1,5 @@
 /**
  * @author pao
- * King Paolo D. Franco
  * BSCS 1B
  */
 import java.util.Scanner;
