@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class ScenarioTwo {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        StringBuffer sb = new StringBuffer();
+        StringBuilder sb = new StringBuilder();
         System.out.println("--------------");
         System.out.println("| Scenario 2 |");
         System.out.println("--------------");
