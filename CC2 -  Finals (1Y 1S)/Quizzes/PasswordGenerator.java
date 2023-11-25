@@ -22,10 +22,7 @@ public class PasswordGenerator {
         password.append(year.substring(2));
         password.append(firstName.substring(0, 4));
         password.append(color.charAt(0));
-        if (password.length() == 10){
-            System.out.println("Generated Password: " + password.toString().toLowerCase());
-        } else {
-            System.out.println("Sorry, there was an error. Try Again");
-        }
+        
+        System.out.println("Generated Password: " + password.toString().toLowerCase());
     }
 }
