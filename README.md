@@ -3,7 +3,7 @@
 
 Lahat ng mga code ko simula first year eyyyy, bahala na wala na akong maisip na katuloy netong description
 
-# TALAAN NG NILALAMAN
+# DIRECTORY ATA TAWAG DITO
 
 | Folder                                                | Files      |
 | ------------------------------------------------------|----------- |
