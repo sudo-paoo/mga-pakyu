@@ -12,5 +12,5 @@ Lahat ng mga code ko simula first year eyyyy, bahala na wala na akong maisip na 
 | CC2 - Finals (1Y 1S) / StringBuilders & StringBuffer  | 1. ScenarioOne.java<br>2. ScenarioTwo.java<br>3. ScenarioThree.java <br> 4. LabActivity.java|
 | CC2 - Finals (1Y 1S) / Quizzes                        | 1. PinCode.java<br>2. PasswordGenerator.java<br>|
 ```
-System.out.println("sana kayanin ko pa hanggang fourth year eyyy(⌐▨_▨)")
+System.out.println("sana kayanin ko pa hanggang fourth year eyyy(⌐▨_▨)");
 ```
