@@ -6,11 +6,16 @@ import java.util.Arrays;
  */
 public class Problem1 {
     public static void main(String[] args) {
+        System.out.println("-------------------");
+        System.out.println("| Sum of an array |");
+        System.out.println("-------------------");
         Scanner sc = new Scanner(System.in);
+        
         System.out.print("Enter array size: ");
         int size = sc.nextInt();sc.nextLine();
         int arrayNum[] = new int[size];
         int sum = 0;
+        
         for(int i=0; i<size; i++) {
             System.out.print("Enter a number: ");
             arrayNum[i] = sc.nextInt();
