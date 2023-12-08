@@ -3,7 +3,7 @@ import java.util.Arrays;
  * @author pao
  * BSCS 1B
  */
-public class ArrayActivity {
+public class StudentInformation {
     public static void main(String[] args) {
         String firstName[] = {"Maria","Antonio","Juan","Pedro","Jim","Clara"};
         char middleInitial[] = {'C','B','E','F','H','M'};
