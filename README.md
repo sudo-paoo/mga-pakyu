@@ -11,13 +11,9 @@ System.out.println("sana kayanin ko pa hanggang fourth year eyyy(⌐▨_▨)");
 > [!IMPORTANT]
 > The course provides with an overview of the fundamentals of programming discussing the basic terminologies used and concepts particular with the Java Programming Language. This course also highlights the different concepts of Java Programming such as Constants, Variables, Data, Arithmetic operations, input and output, decisions and looping structures, and arrays and methods. 
 
-### CC2 - MIDTERMS 
-Programming Concepts:
-- [x] Constants
-- [x] Variables
-- [x] Arithmetic Operations
-- [x] Input and Output
-- [x] Decisions
+### CC2 - MIDTERMS
+> [!NOTE]
+> Programming Concepts: Constants, Variables, Arithmetic Operations, Input and Output, Decisions
 
 | Program               | Programming Concepts | 
 |-----------------------|----------------------| 
@@ -26,12 +22,10 @@ Programming Concepts:
 |3. Soda Vending Machine|<ul><li>[ ] Constants</li><li>[x] Variables</li><li>[x] Arithmetic</li><li>[x] I/O</li><li>[x] Desicions</li></ul>|
 |4. Facebook            |<ul><li>[x] Constants</li><li>[x] Variables</li><li>[ ] Arithmetic</li><li>[x] I/O</li><li>[x] Desicions</li></ul>|
 
-### CC2 - FINALS 
-Programming Concepts:
-- [x] Loops
-- [x] String Manipulation (String methods, StringBuilders)
-- [x] Arrays
-- [x] Java methods
+### CC2 - FINALS
+
+> [!NOTE]
+> Programming Concepts: Loops, String Manipulation (String methods, StringBuilders), Arrays, Java methods
 
 | Program                             | Programming Concepts | 
 |-------------------------------------|----------------------| 
