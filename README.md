@@ -15,33 +15,33 @@ System.out.println("sana kayanin ko pa hanggang fourth year eyyy(⌐▨_▨)");
 > [!NOTE]
 > Programming Concepts: Constants, Variables, Arithmetic Operations, Input and Output, Decisions
 
-| Program               | Programming Concepts | 
-|-----------------------|----------------------| 
-|1. Calculator          |<ul><li>[ ] Constants</li><li>[x] Variables</li><li>[x] Arithmetic</li><li>[x] I/O</li><li>[x] Desicions</li></ul>|
-|2. Employee Information|<ul><li>[x] Constants</li><li>[x] Variables</li><li>[x] Arithmetic</li><li>[x] I/O</li><li>[ ] Desicions</li></ul>|
-|3. Soda Vending Machine|<ul><li>[ ] Constants</li><li>[x] Variables</li><li>[x] Arithmetic</li><li>[x] I/O</li><li>[x] Desicions</li></ul>|
-|4. Facebook            |<ul><li>[x] Constants</li><li>[x] Variables</li><li>[ ] Arithmetic</li><li>[x] I/O</li><li>[x] Desicions</li></ul>|
+| Program               | Constants         | Variables         | Arithmetic Operations | Input and Output | Decisions |
+:-- | :--: | :--: | :--: | :--: | :--:
+|1. Calculator          |	                  |	:white_check_mark:|	:white_check_mark:    |	:white_check_mark:|	:white_check_mark:|
+|2. Employee Information|	:white_check_mark:|	:white_check_mark:|	:white_check_mark:    |	:white_check_mark:|	                  |
+|3. Soda Vending Machine|	                  |	:white_check_mark:|	:white_check_mark:    |	:white_check_mark:|	:white_check_mark:|
+|4. Facebook            |	:white_check_mark:|	:white_check_mark:|	                      |	:white_check_mark:|	:white_check_mark:|
 
 ### CC2 - FINALS
 
 > [!NOTE]
 > Programming Concepts: Loops, String Manipulation (String methods, StringBuilders), Arrays, Java methods
 
-| Program                             | Programming Concepts | 
-|-------------------------------------|----------------------| 
-|1. Factorial                         |<ul><li>[x] Loops</li><li>[ ] String Manipulation</li><li>[ ] Arrays</li><li>[ ] Methods</li></ul>|
-|2. Loop Calculator                   |<ul><li>[x] Loops</li><li>[ ] String Manipulation</li><li>[ ] Arrays</li><li>[ ] Methods</li></ul>|
-|3. Temperature Converter             |<ul><li>[x] Loops</li><li>[ ] String Manipulation</li><li>[ ] Arrays</li><li>[ ] Methods</li></ul>|
-|4. Pin Verification System           |<ul><li>[x] Loops</li><li>[ ] String Manipulation</li><li>[ ] Arrays</li><li>[ ] Methods</li></ul>|
-|5. Scenario 1                        |<ul><li>[ ] Loops</li><li>[x] String Manipulation</li><li>[ ] Arrays</li><li>[ ] Methods</li></ul>|
-|6. Scenario 2                        |<ul><li>[ ] Loops</li><li>[x] String Manipulation</li><li>[ ] Arrays</li><li>[ ] Methods</li></ul>|
-|7. Scenario 3                        |<ul><li>[ ] Loops</li><li>[x] String Manipulation</li><li>[ ] Arrays</li><li>[ ] Methods</li></ul>|
-|8. Lab Activity                      |<ul><li>[ ] Loops</li><li>[x] String Manipulation</li><li>[ ] Arrays</li><li>[ ] Methods</li></ul>|
-|9. Password Generator                |<ul><li>[x] Loops</li><li>[x] String Manipulation</li><li>[x] Arrays</li><li>[ ] Methods</li></ul>|
-|10. Student Information              |<ul><li>[x] Loops</li><li>[ ] String Manipulation</li><li>[x] Arrays</li><li>[ ] Methods</li></ul>|
-|11. Sum of Array                     |<ul><li>[x] Loops</li><li>[ ] String Manipulation</li><li>[x] Arrays</li><li>[ ] Methods</li></ul>|
-|12. Array Rotation                   |<ul><li>[x] Loops</li><li>[ ] String Manipulation</li><li>[x] Arrays</li><li>[ ] Methods</li></ul>|
-|13. Guessing Game                    |<ul><li>[x] Loops</li><li>[ ] String Manipulation</li><li>[ ] Arrays</li><li>[ ] Methods</li></ul>|
-|14. Word Compressor                  |<ul><li>[ ] Loops</li><li>[x] String Manipulation</li><li>[ ] Arrays</li><li>[ ] Methods</li></ul>|
-|15. Twitter Login System             |<ul><li>[x] Loops</li><li>[ ] String Manipulation</li><li>[x] Arrays</li><li>[ ] Methods</li></ul>|
-|16. Instagram Login System (Modified)|<ul><li>[x] Loops</li><li>[ ] String Manipulation</li><li>[x] Arrays</li><li>[x] Methods</li></ul>|
+| Program                             | Loops | String <br> Manipulation| Arrays | Methods |
+:-- | :--: | :--: | :--: | :--:
+|1. Factorial                         |	:white_check_mark:||||
+|2. Loop Calculator                   |	:white_check_mark:||||
+|3. Temperature Converter             |	:white_check_mark:||||
+|4. Pin Verification System           |	:white_check_mark:||||
+|5. Scenario 1                        ||:white_check_mark:|||
+|6. Scenario 2                        ||:white_check_mark:|||
+|7. Scenario 3                        ||:white_check_mark:|||
+|8. Lab Activity                      ||:white_check_mark:|||
+|9. Password Generator                |	:white_check_mark:|	:white_check_mark:|	:white_check_mark:    ||
+|10. Student Information              |	:white_check_mark:||:white_check_mark:||
+|11. Sum of Array                     |	:white_check_mark:||:white_check_mark:||
+|12. Array Rotation                   |	:white_check_mark:||:white_check_mark:||
+|13. Guessing Game                    |	:white_check_mark:||||
+|14. Word Compressor                  ||:white_check_mark:|||
+|15. Twitter Login System             |	:white_check_mark:||:white_check_mark:||
+|16. Instagram Login System (Modified)|	:white_check_mark:||	:white_check_mark:    |	:white_check_mark:|
