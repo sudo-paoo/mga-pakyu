@@ -3,7 +3,7 @@
  * BSCS 1B
  */
 import java.util.Scanner;
-public class Lab {
+public class Matrix {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("----------------------");
