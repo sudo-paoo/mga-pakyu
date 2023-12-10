@@ -7,7 +7,10 @@ System.out.println("sana kayanin ko pa hanggang fourth year eyyy(⌐▨_▨)");
 ```
 <hr>
 
-## CC2 - Computer Programming
+## CC2 - Computer Programming 
+
+![Static Badge](https://img.shields.io/badge/Total_Programs-23-blue?style=for-the-badge&logo=github)
+
 > [!IMPORTANT]
 > The course provides with an overview of the fundamentals of programming discussing the basic terminologies used and concepts particular with the Java Programming Language. This course also highlights the different concepts of Java Programming such as Constants, Variables, Data, Arithmetic operations, input and output, decisions and looping structures, and arrays and methods. 
 
