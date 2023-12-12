@@ -39,3 +39,17 @@ Guidelines:
 5. Looping: Use a loop to allow the user to calculate the factorial of different numbers.
 6. Exit Option: Include an option for the user to exit the program.
 7. Closing Resources: Ensure you close the Scanner object when it's no longer needed.
+
+## Multiplication Table
+#### Objective: To create a program using the Scanner class and loops to generate and display a multiplication table for a given number within a specified range
+
+
+Guidelines: 
+
+1. User Input: The program prompts the user to enter a starting number, ending number, and table number.
+2. Using Scanner: Utilize the Scanner class to capture user input for the specified numbers.
+3. Looping for Table: Implement a while loop to generate and display the multiplication table for the given table number within the range of starting and ending numbers.
+4. Data Validation: Validate that the entered values are appropriate (e.g., numeric). For enhanced robustness, consider handling cases where the starting number is greater than the ending number.
+5. Printing Table: Print each multiplication step along with the intermediate result.
+6. Incrementing Loop Variable: Increment the loop variable (start) in each iteration until it reaches or exceeds the ending number.
+7. Closing Resources: Close the Scanner object at the end of the program to release system resources.
