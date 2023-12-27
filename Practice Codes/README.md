@@ -10,3 +10,6 @@
 
 2. Facebook GUI
   - This Java application simulates a basic user profile system with login and signup functionalities. The program utilizes a predefined profile database, allowing users to log in with their credentials and view their profiles. The application provides a graphical user interface (GUI) for a seamless user experience.
+
+3. Temperature Converter GUI
+  - This is a simple Java Swing application for converting temperatures between Celsius, Fahrenheit, and Kelvin. The application includes a graphical user interface (GUI).
