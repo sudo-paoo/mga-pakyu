@@ -15,7 +15,7 @@ public class TemperatureGUI extends JFrame implements ActionListener {
     private JLabel formulaL;
 
     public TemperatureGUI() {
-        this.setTitle("Facebook");
+        this.setTitle("Temperature Converter");
         this.setSize(300, 200);
         this.setResizable(false);
         this.setDefaultCloseOperation(EXIT_ON_CLOSE);
