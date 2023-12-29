@@ -5,14 +5,17 @@
 
 ### Programs
 
-1. Employee Payslip GUI
+1. Calculator GUI
+  - This Java application, implemented in the CalcuGUI class, functions as a graphical calculator allowing users to perform basic arithmetic operations. Users input two numbers, choose an operator (+, -, *, /, %) from a dropdown menu, and receive instant results displayed on the GUI. The application includes input validation and handles special cases such as division by zero.
+
+2. Employee Payslip GUI
   - This Java application, represented by the Payslip class, automates the process of generating employee payslips based on user input. The program calculates deductions such as Social Security System (SSS), PhilHealth, Pag-IBIG, and income tax. It then displays the payslip information using a graphical user interface (GUI).
 
-2. Facebook GUI
+3. Facebook GUI
   - This Java application simulates a basic user profile system with login and signup functionalities. The program utilizes a predefined profile database, allowing users to log in with their credentials and view their profiles. The application provides a graphical user interface (GUI) for a seamless user experience.
 
-3. Student Information System GUI
+4. Student Information System GUI
  - This Java application presents a Student Information System (SIS) with a user-friendly graphical user interface (GUI). The system enables users to perform fundamental operations such as adding, updating, and deleting student records.
  
-4. Temperature Converter GUI
+5. Temperature Converter GUI
   - This is a simple Java Swing application for converting temperatures between Celsius, Fahrenheit, and Kelvin. The application includes a graphical user interface (GUI).
