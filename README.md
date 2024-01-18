@@ -12,6 +12,9 @@ System.out.println("sana kayanin ko pa hanggang fourth year eyyy(⌐▨_▨)");
   <br>
   <img src="https://img.shields.io/github/commit-activity/t/sudo-paoo/mga-pakyu?style=for-the-badge">
   <img src="https://img.shields.io/badge/Total_Programs-33-blue?style=for-the-badge">
+  <a href="REVIEWER.md" target="_blank">
+    <img alt="REVIEWER" src="https://img.shields.io/badge/Java-Cheatsheet-blue?style=for-the-badge&logo=readme">
+  </a>
 </p>
 
 <hr>
