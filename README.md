@@ -19,12 +19,12 @@ System.out.println("sana kayanin ko pa hanggang fourth year eyyy(⌐▨_▨)");
   </a>
   <br>
   <img src="https://img.shields.io/github/commit-activity/t/sudo-paoo/mga-pakyu?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Total_Programs-45-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Total_Programs-46-blue?style=for-the-badge">
 </p>
 
 <hr>
 
-## CC2 - Computer Programming
+## CC2 - Computer Programming 1
 
 > [!IMPORTANT]
 > The course provides with an overview of the fundamentals of programming discussing the basic terminologies used and concepts particular with the Java Programming Language. This course also highlights the different concepts of Java Programming such as Constants, Variables, Data, Arithmetic operations, input and output, decisions and looping structures, and arrays and methods.
@@ -43,3 +43,8 @@ System.out.println("sana kayanin ko pa hanggang fourth year eyyy(⌐▨_▨)");
 | StringBuilders                       | Mutable class for efficient string manipulation.              | `StringBuilder sb = new StringBuilder();`                           |
 | Arrays                               | Ordered collection of elements with a common data type.       | `int[] numbers = {1, 2, 3, 4, 5};`                                  |
 | Java methods                         | Blocks of code that perform a specific task.                  | `java public int add(int a, int b) { return a + b; }`               |
+
+## CC3 - Computer Programming 2
+
+> [!IMPORTANT]
+> The course covers a wide array of Python programming topics, including loops, strings, control structures, lists, functions, sets, tuples, exception handling, and Python libraries. After completion, students are expected to demonstrate proficiency in Python programming, syntax, input/output functions, string manipulation, control structures, and essential data structures. Additionally, they should exhibit skills in iteration, function creation, Object-Oriented Programming (OOP), introductory data visualization with Pandas, and practical use of the NumPy library for handling large arrays and mathematical operations.
