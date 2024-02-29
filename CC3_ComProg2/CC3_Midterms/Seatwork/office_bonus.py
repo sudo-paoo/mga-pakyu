@@ -18,11 +18,9 @@ elif office == "hr":
 else:
     office = "N/A"
     bonus = "N/A"
-print(
-    f"""
+print(f"""
 |-------------------------------------
 | Number of years in service: {user_years}
 | Office: {office.upper()}
 | Bonus: ₱{bonus}
-|-------------------------------------"""
-)
+|-------------------------------------""")
