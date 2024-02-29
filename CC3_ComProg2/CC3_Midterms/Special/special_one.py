@@ -10,9 +10,7 @@ for i in range(iteration):
         total += float(user_input)
     else:
         concat = f"{concat} {user_input}"
-print(
-    f"""
+print(f"""
 User Inputs: {user_list}
 Total: {total}
-Concatenated String: {concat}"""
-)
+Concatenated String: {concat}""")
