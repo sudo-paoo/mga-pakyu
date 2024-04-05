@@ -1,20 +1,20 @@
 # Documentation
 The provided code implements a simple ATM (Automated Teller Machine) system for Panda Bank Incorporated (PBI). It allows users to perform basic banking operations such as login, balance inquiry, deposit, and withdrawal.
 ## Functions
-1. [[#Function login(username, password)]]
-2. [[#Function get_balance(username, password)]]
-3. [[#Function check_balance(username, password)]]
-4. [[#Function deposit(username, password, amount)]]
-5. [[#Function withdraw(username, password, amount)]]
-6. [[#Function receipt(trans_type, bank_name, amount, balance)]]
-7. [[#Function main()]]
-	1. [[#Part 1 Main Menu]]
-	2. [[#Part 2 Login Process]]
-	3. [[#Part 3 Operations Menu]]
-	4. [[#Part 4 Handling Operations]]
-	5. [[#Part 5 Deposit Operation]]
-	6. [[#Part 6 Withdrawal Operation]]
-	7. [[#Part 7 Error Handling]]
+1. [Function login(username, password)](#function-loginusername-password)
+2. [Function get_balance(username, password)](#function-get_balanceusername-password)
+3. [Function check_balance(username, password)](#function-check_balanceusername-password)
+4. [Function deposit(username, password, amount)](#function-depositusername-password-amount)
+5. [Function withdraw(username, password, amount)](#function-withdrawusername-password-amount)
+6. [Function receipt(trans_type, bank_name, amount, balance)](#function-receipttrans_type-bank_name-amount-balance)
+7. [Function main()](#function-main)
+   1. [Part 1 Main Menu](#part-1-main-menu)
+   2. [Part 2 Login Process](#part-2-login-process)
+   3. [Part 3 Operations Menu](#part-3-operations-menu)
+   4. [Part 4 Handling Operations](#part-4-handling-operations)
+   5. [Part 5 Deposit Operation](#part-5-deposit-operation)
+   6. [Part 6 Withdrawal Operation](#part-6-withdrawal-operation)
+   7. [Part 7 Error Handling](#part-7-error-handling)
 ### Sample Bank Data
 ```python
 bank_data = {  
